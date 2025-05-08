@@ -16,4 +16,4 @@ public class SimpleCalculator {
         scanner.close();
     }
 }
-
+sum of adding two numbers
